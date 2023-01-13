@@ -1,0 +1,10 @@
+// task 7.7.1 20230113.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
+#include <iostream>
+#include"IntegerArray.h"
+
+int main()
+{
+    std::cout << "Hello World!\n";
+}
