@@ -26,5 +26,8 @@
     <ClInclude Include="IntegerArray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="IntegerArrayExcp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
